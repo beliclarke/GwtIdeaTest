@@ -22,7 +22,7 @@ public class Login extends Composite {
 
     public Login() {
         initWidget(ourUiBinder.createAndBindUi(this));
-        textBox.setText("initial 18:30");
+        textBox.setText("initial 18:59");
         button.setText("ahoj");
     }
 
