@@ -22,8 +22,8 @@ public class Login extends Composite {
 
     public Login() {
         initWidget(ourUiBinder.createAndBindUi(this));
-        textBox.setText("initial 19:07");
-        button.setText("ahoj");
+        textBox.setText("initial 17:53");
+        button.setText("Hi");
     }
 
     @UiField
