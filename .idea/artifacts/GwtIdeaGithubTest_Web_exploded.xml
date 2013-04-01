@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="GwtIdeaGithubTest:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/GwtIdeaGithubTest_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="GwtIdeaGithubTest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="GwtIdeaGithubTest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
